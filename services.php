@@ -40,7 +40,7 @@
                         <div class="col-lg-6 col-md-6 col-sm-6">
                             <div class="services__details__title">
                                 <span style="color: #A3A3A2;">Dental procedures</span>
-                                <h3 style="color: #373A3B;">Porcelain Veneer</h3>
+                                <h3 style="color: #373A3B;">Porcelain Veneers</h3>
                             </div>
                         </div>
                        
