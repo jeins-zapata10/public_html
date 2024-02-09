@@ -18,7 +18,7 @@
         <div class="row">
             <div class="col-lg-12 text-center">
                 <div class="breadcrumb__text" >
-                    <h2>Contactanos</h2>
+                    <h2>Contact Us</h2>
                     <!-- <div class="breadcrumb__links">
                         <a href="./index.html">Home</a>
                         <span>Contact</span>
